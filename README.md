@@ -27,9 +27,17 @@ gggg
 - ss
 - rr
 
+![Alt Text](/Data_Annotations.png)
 # Data Samples and Further Details
 ffff
 fhh
+![Alt Text](/Annotations_Sample.png)
+
+# Data Annotation tool used
+We have used labelbox for the annotation.
+
+Below is the iamge for one sample used in the annotation
+![Alt Text](/labelbox.png)
 
 
 Access to the IIT-R GAViD dataset can be obtained by through: https://zenodo.org/records/15448846
