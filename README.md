@@ -15,15 +15,16 @@ ggg
 
 # Steps Involved in the Data Collection
 gggg
-** Step 1: Manual search of video with CC licence from the youtube **
+**Step 1: Manual search of video with CC licence from the youtube**
 1. sss
 
-** Step 2: Segmenting the Videos in the clips of 5 Secs **
+**Step 2: Segmenting the Videos in the clips of 5 Secs**
 1. hkjhkhk
 2. kkkk
-** Step 3 Manual Annotation of vidoe clips **
+**Step 3: Manual Annotation of vidoe clips**
 - ss
 - rr
+
 # Data Samples and Further Details
 ffff
 fhh
