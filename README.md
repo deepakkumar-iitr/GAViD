@@ -34,7 +34,7 @@ fhh
 ![Alt Text](/Annotations_Sample.png)
 
 # Data Annotation tool used
-We have used labelbox for the annotation.
+We have used [labelbox](https://labelbox.com/) for the annotation.
 
 Below is the iamge for one sample used in the annotation
 ![Alt Text](/labelbox.png)
