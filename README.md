@@ -1,6 +1,9 @@
 # GAViD
 This is the repository for the GAViD: Group Affect from ViDeos Dataset
 
+# Dataset Annotation Process
+
+
 # Code Files
 The files Model1_baseline.ipynb, Model2_baseline.ipynb and Model3_baseline.ipynb contain the implmentation for the baseline models.
 
