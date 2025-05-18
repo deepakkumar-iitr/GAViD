@@ -29,8 +29,7 @@ gggg
 
 ![Alt Text](/Data_Annotations.png)
 # Data Samples and Further Details
-ffff
-fhh
+Representative samples from the CMFeed dataset are shown in the following figure where Context column is representing the overall summary of the clip coming from the [VideoGPT](https://github.com/mbzuai-oryx/Video-ChatGPT) model. And Annotation column has four types of annotations we have collected for each video clip i.e., Video Affect (Positive, Negative, Neutral), Video Emotion (Happy, Neutral, Anger, Sad), Intensity (High, Low), and Specific Action Cues.
 ![Alt Text](/Annotations_Sample.png)
 
 # Data Annotation tool used
