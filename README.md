@@ -27,6 +27,16 @@ gggg
 - ss
 - rr
 
+# Dataset Description
+Number of Original videos
+Number of clips (samples) in GAViD: 5,130
+Number of samples with some problem: 39
+Number of samples after filtering: 5,091
+Duration per clip: 5 sec
+Range of clips from a video: 1–32
+Dataset split: Train: XX; Val: XX
+Affect labels (classwise distribution): Positive: Negative: Neutral:
+
 ![Alt Text](/Data_Annotations.png)
 # Data Samples and Further Details
 Representative samples from the CMFeed dataset are shown in the following figure where Context column is representing the overall summary of the clip coming from the [VideoGPT](https://github.com/mbzuai-oryx/Video-ChatGPT) model. And Annotation column has four types of annotations we have collected for each video clip i.e., Video Affect (Positive, Negative, Neutral), Video Emotion (Happy, Neutral, Anger, Sad), Intensity (High, Low), and Specific Action Cues.
