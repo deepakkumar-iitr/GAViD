@@ -28,19 +28,8 @@ gggg
 - rr
 
 # Dataset Description
-Number of clips (samples) in GAViD: 5,130
-
-Number of samples with some problem: 39
-
-Number of samples after filtering: 5,091
-
-Duration per clip: 5 sec
-
-Range of clips from a video: 1–32
-
-Dataset split: Train: XX; Val: XX
-
-Affect labels (classwise distribution): Positive: Negative: Neutral:
+Below table is representing the dataset details. Here, ‘P’: Positive, ‘N’: Negative, ‘Ne’: Neutral, ‘H’: Happy, ‘S’: Sad, ‘F’: Fear, ‘A’: Anger.
+![Alt Text](/Dataset_Details.png)
 
 ### Left figure is denoting data collection and right figure is denoting data annotations pipleline.
 ![Alt Text](/fig_DataCompilation.png)
