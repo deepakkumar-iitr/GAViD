@@ -41,6 +41,7 @@ Below is the iamge for one sample used in the annotation
 ![Alt Text](/labelbox.png)
 
 # CAGNet Architecture Diagram
+We propose CAGNet, a baseline GAR model that fuses visual, audio and contextual information tas shown in the diagram.
 ![Alt_Text](/fig_CAGNet.png)
 
 Access to the IIT-R GAViD dataset can be obtained by through: https://zenodo.org/records/15448846
