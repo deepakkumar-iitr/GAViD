@@ -33,9 +33,9 @@ Below table is representing the dataset details. Here, ‘P’: Positive, ‘N�
 
 ### Overview of the GAViD annotation pipeline and interface. The diagram illustrates stages of data collection, sample video frames with valence, emotion, intensity, cues and contextual labels, as well as the Labelbox interface used for multi-annotator input. Sample context descriptions and VideoGPT-suggested keywords demonstrate how human and AI annotations are integrated.
 ![Alt Text](/fig_DataCompilation.png)
-[//]: # Data Samples and Further Details
+"... # Data Samples and Further Details
 Representative samples from the CMFeed dataset are shown in the following figure where Context column is representing the overall summary of the clip coming from the [VideoGPT](https://github.com/mbzuai-oryx/Video-ChatGPT) model. And Annotation column has four types of annotations we have collected for each video clip i.e., Video Affect (Positive, Negative, Neutral), Video Emotion (Happy, Neutral, Anger, Sad), Intensity (High, Low), and Specific Action Cues.
-![Alt Text](/Annotations_Sample.png) .."
+![Alt Text](/Annotations_Sample.png) ..."
 
 # Data Annotation tool used
 We have used [labelbox](https://labelbox.com/) for the annotation.
