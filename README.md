@@ -2,11 +2,9 @@
 This is the repository for the GAViD: Group Affect from ViDeos Dataset
 
 # Abstract
-{: style="text-align: justify" }
-Recognizing group affect in in-the-wild settings remains challenging due to two key factors: the difficulty of capturing and labeling group data and the complexity of analyzing group affect amid diverse interactions and contextual variability. The lack of comprehensive datasets annotated with multimodal and contextual information further limits advances in the field. To address this, we introduce the Group Affect from ViDeos (GAViD) dataset, comprising 5091 video
-clips with multimodal data (video, audio and context), annotated with ternary valence and discrete emotion labels and enriched with VideoGPT-generated contextual metadata and human-annotated action cues. We also present CAGNet, a baseline model for multimodal context-aware group affect recognition. CAGNet achieves 61.20% test accuracy on GAViD, comparable to state-of-the-art performance.
+Recognizing group affect in in-the-wild settings remains challenging due to two key factors: the difficulty of capturing and labeling group data and the complexity of analyzing group affect amid diverse interactions and contextual variability. The lack of comprehensive datasets annotated with multimodal and contextual information further limits advances in the field. To address this, we introduce the Group Affect from ViDeos (GAViD) dataset, comprising 5091 video clips with multimodal data (video, audio and context), annotated with ternary valence and discrete emotion labels and enriched with VideoGPT-generated contextual metadata and human-annotated action cues. We also present CAGNet, a baseline model for multimodal context-aware group affect recognition. CAGNet achieves 61.20% test accuracy on GAViD, comparable to state-of-the-art performance.
 
-# Dataset Annotation Process
+
 
 
 # Code Files
@@ -36,6 +34,7 @@ gggg
 Below table is representing the dataset details. Here, ‘P’: Positive, ‘N’: Negative, ‘Ne’: Neutral, ‘H’: Happy, ‘S’: Sad, ‘F’: Fear, ‘A’: Anger.
 ![Alt Text](/Dataset_Details.png)
 
+# Dataset Annotation Process Pipeline
 ### Overview of the GAViD annotation pipeline and interface. The diagram illustrates stages of data collection, sample video frames with valence, emotion, intensity, cues and contextual labels, as well as the Labelbox interface used for multi-annotator input. Sample context descriptions and [VideoGPT](https://github.com/mbzuai-oryx/Video-ChatGPT)-suggested keywords demonstrate how human and AI annotations are integrated.
 ![Alt Text](/fig_DataCompilation.png)
 
