@@ -2,6 +2,7 @@
 This is the repository for the GAViD: Group Affect from ViDeos Dataset
 
 # Abstract
+{: style="text-align: justify" }
 Recognizing group affect in in-the-wild settings remains challenging due to two key factors: the difficulty of capturing and labeling group data and the complexity of analyzing group affect amid diverse interactions and contextual variability. The lack of comprehensive datasets annotated with multimodal and contextual information further limits advances in the field. To address this, we introduce the Group Affect from ViDeos (GAViD) dataset, comprising 5091 video
 clips with multimodal data (video, audio and context), annotated with ternary valence and discrete emotion labels and enriched with VideoGPT-generated contextual metadata and human-annotated action cues. We also present CAGNet, a baseline model for multimodal context-aware group affect recognition. CAGNet achieves 61.20% test accuracy on GAViD, comparable to state-of-the-art performance.
 
