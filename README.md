@@ -54,5 +54,5 @@ Below is the iamge for one sample used in the annotation
 We propose CAGNet, a baseline GAR model that fuses visual, audio and contextual information tas shown in the diagram.
 ![Alt_Text](/fig_CAGNet.png)
 
-# Access to the IIT-R GAViD dataset can be obtained by through: https://zenodo.org/records/15448846
-## NOTE: For now we are providing only Train video clips. The corresponding paper is under Review in ACM Multimedia 2025 Dataset Track. After its publication, the validation and Test set access will be granted upon request and approval, in accordance with the Responsible Use Policy.
+### Access to the IIT-R GAViD dataset can be obtained by through: https://zenodo.org/records/15448846
+#### NOTE: For now we are providing only Train video clips. The corresponding paper is under Review in ACM Multimedia 2025 Dataset Track. After its publication, the validation and Test set access will be granted upon request and approval, in accordance with the Responsible Use Policy.
