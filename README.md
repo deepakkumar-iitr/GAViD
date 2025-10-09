@@ -3,8 +3,8 @@ Implementation for the paper submitted to ACM Multimedia Conference (ACMMM) 2025
 
 # 🔍💡 Abstract
 Recognizing group affect in in-the-wild settings remains challenging due to two key factors: the difficulty of capturing and labeling group data and the complexity of analyzing group affect amid diverse interactions and contextual variability. The lack of comprehensive datasets annotated with multimodal and contextual information further limits advances in the field. To address this, we introduce the Group Affect from ViDeos (GAViD) dataset, comprising 5091 video clips with multimodal data (video, audio and context), annotated with ternary valence and discrete emotion labels and enriched with VideoGPT-generated contextual metadata and human-annotated action cues. We also present CAGNet, a baseline model for multimodal context-aware group affect recognition. CAGNet achieves 61.20% test accuracy on GAViD, comparable to state-of-the-art performance.
----
 
+---
 # 📄 Code Files
 The code files are currently private and will be made public after the acceptance/publication of the corresponding paper.
 ---
@@ -13,6 +13,7 @@ The IIT Roorkee Multimodal Video based Affect recognition (GAViD) Dataset has be
 
 ## Compliance with Facebook's Terms & Conditions
 The data (videos) has been collected manually from YouTube with keywords such as Protest, Wedding Dance, Group Meeting etc. 
+
 ---
 # 🔄📋🪜 Steps Involved in the Dataset Compilation Process
 Below are the steps involved in the dataset compilation process.
@@ -39,21 +40,27 @@ Below are the steps involved in the dataset compilation process.
 Below table is representing the dataset details. Here, ‘P’: Positive, ‘N’: Negative, ‘Ne’: Neutral, ‘H’: Happy, ‘S’: Sad, ‘F’: Fear, ‘A’: Anger.
 
 ![Alt Text](/Dataset_Details.png)
+
 ---
+
 # 🏷️ ➜ ⚙️ ➜ 🤖 Dataset Annotation Process Pipeline
 ### Overview of the GAViD annotation pipeline and interface. The diagram illustrates stages of data collection, sample video frames with valence, emotion, intensity, cues and contextual labels, as well as the Labelbox interface used for multi-annotator input. Sample context descriptions and [VideoGPT](https://github.com/mbzuai-oryx/Video-ChatGPT)-suggested keywords demonstrate how human and AI annotations are integrated.
 ![Alt Text](/fig_DataCompilation.png)
+
 ---
 # 🧩🛠️ Data Annotation tool used
 We have used [labelbox](https://labelbox.com/) for the annotation.
 
 Below is the iamge for one sample used in the annotation
 ![Alt Text](/labelbox.png)
+
 ---
 # 🏗️🧱 CAGNet Architecture Diagram
 We propose CAGNet, a baseline GAR model that fuses visual, audio and contextual information tas shown in the diagram.
 ![Alt_Text](/fig_CAGNet.png)
+
 ---
+
 # 📦 Dataset Availability
 ### Access to the IIT-R GAViD dataset can be obtained by zenodo link: https://zenodo.org/records/15448846
 #### NOTE: For now we are providing only Train video clips. The corresponding paper is under Review in ACM Multimedia 2025 Dataset Track. After its publication, the validation and Test set access will be granted upon request and approval, in accordance with the Responsible Use Policy.
