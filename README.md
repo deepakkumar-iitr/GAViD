@@ -11,7 +11,7 @@ The code files are currently private and will be made public after the acceptanc
 ## ✏️ Dataset Details & Access
 The IIT Roorkee Multimodal Video based Affect recognition (GAViD) Dataset has been compiled by Deepak Kumar, Abhsihsek Singh at Machine Vision Lab, IIT Roorkee under the supervision of Prof. Balasubramanian Raman. It Consists of 5091 video clips. The data is colleted from the youtube under the creative comman license policy.
 
-### Compliance with Facebook's Terms & Conditions
+### Compliance with YouTube's Terms & Conditions
 The data (videos) has been collected manually from YouTube with keywords such as Protest, Wedding Dance, Group Meeting etc. 
 
 ---
