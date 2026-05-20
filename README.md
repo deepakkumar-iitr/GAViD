@@ -59,6 +59,9 @@ Below is the iamge for one sample used in the annotation
 We propose CAGNet, a baseline GAR model that fuses visual, audio and contextual information tas shown in the diagram.
 ![Alt_Text](/fig_CAGNet.png)
 
+<div align="center">
+  <sub>Built and maintained by Deepak Kumar</sub>
+</div>
 ---
 
 ## 📦 Dataset Availability
