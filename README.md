@@ -60,11 +60,12 @@ We propose CAGNet, a baseline GAR model that fuses visual, audio and contextual 
 ![Alt_Text](/fig_CAGNet.png)
 
 ---
-<div align="center">
-  <sub>Built and maintained by Deepak Kumar</sub>
-</div>
----
 
 ## 📦 Dataset Availability
 ### Access to the IIT-R GAViD dataset can be obtained by zenodo link: https://zenodo.org/records/15448846
 #### NOTE: For now we are providing only Train video clips. The corresponding paper is under Review in Transactions On Computational Social Systems (TCSS) journal. After its publication, the validation and Test set access will be granted upon request and approval, in accordance with the Responsible Use Policy.
+
+---
+<div align="center">
+  <sub>Built and maintained by Deepak Kumar</sub>
+</div>
